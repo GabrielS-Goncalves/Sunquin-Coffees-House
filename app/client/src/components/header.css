@@ -1,0 +1,18 @@
+.top-Area{
+    background-color: mediumpurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 17px;
+}
+
+.Navigation-Part {
+    display: flex;
+    margin: 10px 10px;
+    list-style: none;
+    
+    & li {
+        margin-right: 18px;
+    } 
+}
